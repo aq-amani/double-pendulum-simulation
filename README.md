@@ -3,7 +3,9 @@ A script to create simulation animation of a specific number of double pendulums
 
 ## Example output
 
-<img src="./readme_images/rt_buffer.gif" width="400" />
+<p align="center">
+  <img src="./readme_images/pendulum.gif" width="400" />
+</p>
 
 ## :hammer_and_wrench: Setup/ Preparation
 ```bash
