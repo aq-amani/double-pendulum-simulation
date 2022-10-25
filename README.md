@@ -1,6 +1,10 @@
 # About this project
 A script to create simulation animation of a specific number of double pendulums with a specific error in initial conditions.
 
+## Example output
+
+<img src="./readme_images/rt_buffer.gif" width="400" />
+
 ## :hammer_and_wrench: Setup/ Preparation
 ```bash
 pipenv install --ignore-pipfile --skip-lock --python 3.9
